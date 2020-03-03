@@ -1,0 +1,12 @@
+name: stockVis
+title: stockVis
+username:
+account: epsiloncoding
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 449362
+bundleId: 1588654
+url: https://epsiloncoding.shinyapps.io/stockVis/
+when: 1537135762.31664
+asMultiple: FALSE
+asStatic: FALSE

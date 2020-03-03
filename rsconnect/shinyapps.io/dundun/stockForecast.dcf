@@ -1,0 +1,12 @@
+name: stockForecast
+title: stockForecast
+username:
+account: dundun
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 446023
+bundleId: 1588646
+url: https://dundun.shinyapps.io/stockForecast/
+when: 1537135429.20135
+asMultiple: FALSE
+asStatic: FALSE
